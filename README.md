@@ -1,5 +1,5 @@
 
-### Technical training for elev8 Microsoft-ATO cohort 3 on how to set up git locally and push to git
+## Technical training for elev8 Microsoft-ATO cohort 3 on how to set up git locally and push to git
 ## Preparing to use Git
 Download Git bash (https://git-scm.com/downloads)  
 ##  Initial Git Setup  
