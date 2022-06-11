@@ -5,13 +5,14 @@ Download Git bash https://git-scm.com/downloads
 ##  Initial Git Setup  
 git config --global user.name "username"  
 git config --global user.email "email address"
-## Pushing to GitHub
+## Working Locally
 mkdir website  
 cd website  
 git init  
 git remote add origin <URL>  
 this should be the url from your created repo(use https) 
-touch index.html    
+touch index.html
+## Pushing to GitHub
 git add index.html  
 git commit -m "Create index.html"  
 git push origin master  
