@@ -11,8 +11,8 @@ cd website
 git init  
 git remote add origin <URL>  
 this should be the url from your created repo(use https) 
-touch index.html  
-git add index.html
-git commit -m "Create index.html"
-git push origin master
+touch index.html    
+git add index.html  
+git commit -m "Create index.html"  
+git push origin master  
   
